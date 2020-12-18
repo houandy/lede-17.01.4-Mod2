@@ -1,8 +1,8 @@
 name: Build LEDE domywifi-dw33d
 
 on:
-  push:
-    branches: 
+#  push:
+#    branches: 
       - master
 
 env:
