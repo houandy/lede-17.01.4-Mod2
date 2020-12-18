@@ -3,7 +3,7 @@ name: Build LEDE domywifi-dw33d
 on:
 #  push:
 #    branches: 
-      - master
+#      - master
 
 env:
   TARGET_DEVICE: domywifi-dw33d
