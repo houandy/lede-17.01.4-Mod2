@@ -1,4 +1,4 @@
-name: Build LEDE domywifi-dw33d
+name: Build LEDE domywifi-dw33d-1
 
 on:
   push:
